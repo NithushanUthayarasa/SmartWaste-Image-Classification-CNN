@@ -1,7 +1,8 @@
-# 🗑️ Waste Classification using Convolutional Neural Networks (CNN)
+# 🗑️ Garbage Image Classification using Deep Learning (CNN & Computer Vision)
 
-**Automated multi-class waste classification using deep learning and computer vision.**  
-An end-to-end AI project leveraging CNNs and transfer learning to classify waste images into 10 categories, achieving high accuracy on real-world data.
+**End-to-end AI project for automated multi-class garbage image classification using Convolutional Neural Networks (CNNs) and computer vision techniques.**  
+Leverages deep learning and transfer learning to accurately classify images into 10 garbage categories, demonstrating practical applications of computer vision in real-world waste management.
+
 
 ---
 
@@ -121,7 +122,7 @@ This confirms the CNN effectively captures **texture, shape, and visual features
 - Predictions exported as `predictions.csv` for analysis  
 
 ---
-
+```text
 ## 📁 Project Structure
 cv-waste-classification/
 │
@@ -144,7 +145,7 @@ cv-waste-classification/
 ├── predictions.csv
 └── README.md
 
-
+```
 
 ---
 
