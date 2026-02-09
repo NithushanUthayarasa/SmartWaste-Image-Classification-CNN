@@ -47,7 +47,7 @@ Traditional rule-based systems fail due to **high visual variability** in waste 
 
 | Attribute | Value |
 |-----------|-------|
-| Total Images | ~19,000+ |
+| Total Images | ~20,000+ |
 | Classes | 10 |
 | Categories | battery, biological, cardboard, clothes, glass, metal, paper, plastic, shoes, trash |
 
@@ -150,11 +150,11 @@ cv-waste-classification/
 ---
 
 ## 🌟 Highlights
-- ✅ End-to-end CNN project with transfer learning  
-- 📊 88.6% test accuracy on 10 waste categories  
+- ✅ End-to-end **CNN & deep learning project** with transfer learning  
+- 📊 Achieved 88.6% test accuracy on 10 waste categories  
 - 🧠 Strong interpretability using confusion matrix & classification report  
-- ⚙️ Production-ready saved model  
-- 🔁 Reproducible and data-leak-free pipeline  
+- ⚙️ Production-ready saved model with **reproducible AI pipeline**  
+- 🔁 Demonstrates **practical AI, deep learning, and computer vision skills**
 
 ---
 
@@ -178,5 +178,5 @@ cv-waste-classification/
 
 ## 👤 Author
 **Nithushan Uthayarasa**  
-BSc (Hons) in Information Technology  
-Specialized in ai
+BSc (Hons) in Information Technology – Specialized in **Artificial Intelligence (AI)**  
+
